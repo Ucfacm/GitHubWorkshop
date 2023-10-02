@@ -1,0 +1,30 @@
+My name is : adam
+I am a : Senior
+My major is : CS
+I like : vscode
+
+git status 
+git branch <branchName>
+git checkout <branchName>
+
+// working directory to staging area
+git add <filename> (git add. - pushes everything to staging area)
+
+// commit
+git commit -m "Any message"
+
+// pushing to origin | (main)
+git push origin <branchName>
+
+// initalize a folder to have git funtionality
+git init 
+
+// fetches new changes in the repo
+git fetch
+
+// stash. Saves changes from working directory that aren't ready to be commited
+// allowing you to switch to different branch
+git stash
+// applies the most recent stash back to working directory
+git stash pop
+
