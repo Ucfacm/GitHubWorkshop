@@ -1,4 +1,12 @@
-My name is : 
-I am a : 
-My major is : 
-I like : 
+My name is : adam
+I am a : Senior
+My major is : CS
+I like : vscode
+
+git status 
+git branch <branchName>
+git checkout <branchName>
+
+// working directory to staging area
+git add <filename> (git add. - pushes everything to staging area)
+
